@@ -10,3 +10,4 @@
 * [Xunit Comparison](https://xunit.net/docs/comparisons#note3)
 * [C# Unit Testing](https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-dotnet-test)
 * [Unit Testing Best Practices](https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-best-practices)
+* [Xunit Best Practice(Attributes)](https://andrewlock.net/creating-parameterised-tests-in-xunit-with-inlinedata-classdata-and-memberdata/)
